@@ -1,0 +1,24 @@
+.backgroundSide{
+    background-image: url('./image/Wave.png');background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+  }
+  .list-unstyled a:hover {
+    color: rgba(105, 70, 4, 0.514) !important;
+    transform: scale(0.9);
+  }
+  .dashboard, .aicones{
+    color: rgba(105, 70, 4, 0.514) !important;
+  }
+  .aicones:hover{
+    color: orange !important;
+    transform: scale(0.9);
+  }
+  .liDash{
+    padding: 15px;
+    background: linear-gradient(to right,#f5c772 10%,#f3c389 20%,#ffffff 100%);
+    border-radius: 15px;
+  }
+  .icones{
+    background: linear-gradient(to left,#f5c772 10%,#f3c389 20%,#ffffff 100%);
+  }
